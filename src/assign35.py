@@ -1,0 +1,11 @@
+python_course={"Jake","John","Eric","Jill"}
+java_course={"John","Jack","Jill","Joe"}
+print(len(python_course))
+print(python_course)
+print(java_course)
+print(len(python_course&java_course))
+print(python_course&java_course)
+print(len(python_course^java_course))
+print(python_course^java_course)      
+print(len(python_course|java_course))
+print(python_course|java_course)
